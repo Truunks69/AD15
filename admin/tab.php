@@ -8,7 +8,7 @@
 
         <title>Acceuil</title>
     </head>
-
+    <p><a href="index.php"><img src="../img/back.svg" alt="back" style="width: 70px; height: 70px;"></a></p>
     <div id="container3" style="margin-bottom: 90px;" class="col-sm-10 col-md 6 col-lg-8">
         <h1>Produits</h1>
         <table class="table table-striped">
